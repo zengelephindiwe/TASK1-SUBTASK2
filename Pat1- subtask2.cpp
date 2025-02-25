@@ -1,4 +1,3 @@
-//Part-subtasks2
 #inlude <vector>
 int main() { 
   std::vector<int> temperatures(3);
@@ -29,6 +28,7 @@ std::end1;
 as the condition is not met
   }else if (temperatures[1]-
 temperatures[0]<10) {
+
 return 0;
   
 
